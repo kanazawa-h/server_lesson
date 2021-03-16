@@ -1,0 +1,303 @@
+12  composer -v
+   13  exit
+   14  is /
+   15  is/
+   16  ls/
+   17  ls /
+   18  ls /usr
+   19  ls -a
+   20  ls al
+   21  ls -l
+   22  pwd
+   23  cd /vagrant
+   24  cd/bagrant
+   25  cd /vagrant
+   26  pwd
+   27  cd /vagrant
+   28  cd usr
+   29  pwd
+   30  cd /vagrant
+   31  vagrant box add centos/7
+   32  vagrant up
+   33  ls/
+   34  ls /
+   35  ls /vagrant
+   36  pwd
+   37  ls /
+   38  ls /vagrant
+   39  eixt
+   40  eoxt
+   41  eixt
+   42  exit
+   43  ls /
+   44  pwd
+   45  ls /
+   46  exit
+   47  ls /
+   48  ls /usr
+   49  pwd
+   50  cd /vagrant
+   51  exit
+   52  ls /
+   53  pwd
+   54  ls /
+   55  exit
+   56  ls /
+   57  exit
+   58  ls /
+   59  ls
+   60  cd /
+   61  ls
+   62  pwd
+   63  cd home
+   64  pwd
+   65  ls
+   66  cd home/vagrant
+   67  cd /home/vagrant
+   68  pwd
+   69  ls
+   70  ls /
+   71  exit
+   72  ls /
+   73  pwd
+   74  cd /vagrant
+   75  exit
+   76  la /
+   77  ls /
+   78  exit
+   79  ls /
+   80  sudo yum -y groupinstall "development tools"
+   81  sudo yum -y install epel-release wget
+   82  sudo wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
+   83  sudo rpm -Uvh remi-release-7.rpm
+   84  sudo yum -y install --enablerepo=remi-php72 php php-pdo php-mysqlnd php-mbstring php-xm
+   85  l php-fpm php-common php-devel php-mysql unzip
+   86  sudo yum -y install --enablerepo=remi-php72 php php-pdo php-mysqlnd php-mbstring php-xml php-fpm php-common php-devel php-mysql unzip
+   87  php -v
+   88  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+   89  php composer-setup.php
+   90  php -r "unlink('composer-setup.php');"
+   91  sudo mv composer.phar /usr/local/bin/composer
+   92  composer -v
+   93  ls /
+   94  pwd
+   95  cd /vagrant
+   96  exit
+   97  sudo yum -y update kernel
+   98  exit
+   99  ls /
+  100  pwd
+  101  ls /
+  102  eixt
+  103  exit
+  104  ls /
+  105  exit
+  106  sudo yum -y update kernel
+  107  exit
+  108  ls /
+  109  cd /vagrant
+  110  pwd
+  111  cd usr
+  112  ls /
+  113  pwd
+  114  mkdir server_lesson && cd server_lesson
+  115  git init
+  116  touch first.txt
+  117  git sutatus
+  118  git status
+  119  git remote add origin https://github.com/kanazawa-h/server_lesson1.git
+  120  git status
+  121  git comimit -m 'first commit'
+  122  yes
+  123  cd /vagrant
+  124  cd /vagrant/server_lesson_/linux_practice2
+  125  ls
+  126  cd /vagrant/server_lesson
+  127  ls
+  128  pwd
+  129  ls /
+  130  pwd
+  131  cd /vagrant
+  132  ls
+  133  pwd
+  134  exit
+  135  cd /vagrant
+  136  ls
+  137  /vagrant/Vagrantfile
+  138  cd  /vagrant/Vagrantfile
+  139  cd /Vagrantfile
+  140  git clone https://github.com/kanazawa-h/server_lesson.git
+  141  ls
+  142  cd /server_lesson
+  143  cd ./server_lesson
+  144  ls
+  145  git remote -v
+  146  mkdir server_lesson/linux_practice2/documents
+  147  ls
+  148  mkdir server_lesson/linux_practice2
+  149  ls
+  150  mkdir linux_practice2/documents
+  151  ls
+  152  cd server_lesson/linux_practice2
+  153  mkdir server_lesson/linux_practice2
+  154  ls
+  155  mkdir -p linux_practice2/documents
+  156  ls
+  157  cd /linux_practice2
+  158  cd linux_practice2
+  159  ls
+  160  cd ..//..//server_lesson
+  161  git status
+  162  git log
+  163  git status
+  164  cd linux_practice2
+  165  git status
+  166  cd ..//..//server_lesson
+  167  cd linux_practice2/documents
+  168  touch gizumo01.md
+  169  ls
+  170  git status
+  171  touch gizumo02.md
+  172  ls
+  173  git status
+  174  gid add /
+  175  git add .
+  176  git status
+  177  touch gizumo03.md
+  178* touch git reset HEAD <fi
+  179  git status
+  180  git reset HEAD new file
+  181  git status
+  182  git reset HEAD <file>
+  183  "git reset HEAD
+
+gizumo01.md
+  184  git status
+  185  git reset HEAD <file>
+  186  git reset HEAD gizumo01.md
+  187  git reset HEAD gizumo02.md
+  188  git status
+  189  ls
+  190  touch gizumo04.md
+  191  touch gizumo05.md
+  192  touch gizumo06.md
+  193  touch gizumo07.md
+  194  touch gizumo08.md
+  195  touch gizumo09.md
+  196  touch gizumo10.md
+  197  touch gizumo11.md
+  198  touch gizumo12.md
+  199  touch gizumo13.md
+  200  touch gizumo14.md
+  201  touch gizumo15.md
+  202  touch gizumo16.md
+  203  touch gizumo17.md
+  204  touch gizumo18.md
+  205  touch gizumo19.md
+  206  touch gizumo20.md
+  207  touch gizumo21.md
+  208  touch gizumo22.md
+  209  touch gizumo23.md
+  210  touch gizumo24.md
+  211  touch gizumo25.md
+  212  touch gizumo26.md
+  213  touch gizumo27.md
+  214  touch gizumo28.md
+  215  touch gizumo29.md
+  216  touch gizumo30.md
+  217  touch gizumo31.md
+  218  touch gizumo32.md
+  219  touch gizumo33.md
+  220  touch gizumo34.md
+  221  touch gizumo35.md
+  222  touch gizumo36.md
+  223  touch gizumo37.md
+  224  touch gizumo38.md
+  225  touch gizumo39.md
+  226  touch gizumo40.md
+  227  touch gizumo41.md
+  228  touch gizumo42.md
+  229  touch gizumo43.md
+  230  touch gizumo44.md
+  231  touch gizumo45.md
+  232  touch gizumo46.md
+  233  touch gizumo47.md
+  234  touch gizumo48.md
+  235  touch gizumo49.md
+  236  touch gizumo50.md
+  237  ls
+  238  git status
+  239  git add .
+  240  git diff
+  241  git status
+  242  git commit -m 'gizumo01.md~gizumo50.mdをdocumentsディレクトリ内に作成'
+  243  git status
+  244  git log
+  245  git push origin master
+  246  ../../server_lesson
+  247  cd vagrant/server_lesson
+  248  pwd
+  249  cd vagrant/server_lesson
+  250  cd /vagrant/server_lesson/linux_practice2
+  251  cd /vagrant/server_lesso
+  252  ../server_lesso
+  253  ./server_lesso
+  254  ../../server_lesso
+  255  ../server_lesso
+  256  ..server_lesso
+  257  ..//../server_lesso
+  258  ,../../server_lesso
+  259  ../../server_lesso
+  260  .server_lesso
+  261  ./server_lesso
+  262  ../server_lesso
+  263  cd .server_lesso
+  264  cd ./server_lesso
+  265  cd ../server_lesso
+  266  cd ../../server_lesso
+  267  cd .server_lesso
+  268  pwd
+  269  cd ..
+  270  cd -
+  271  mkdir trash
+  272  ls
+  273  cd /trash
+  274  cd trash
+  275  cd -
+  276  ls
+  277  mv ./documents/gizumo2*.md ./trash
+  278  cd trash
+  279  ls
+  280  cd -
+  281  mv ./documents/gizumo3*.md ./trash
+  282  mv ./documents/gizumo40.md ./trash
+  283  cd-
+  284  cd -
+  285  ls
+  286  cd -
+  287  git status
+  288  git add .
+  289  cd -
+  290  git status
+  291  git add .
+  292  git commit -m ' documents内のgizumo20~40.mdのファイルをtrash内に移動'
+  293  git push origin master
+  294  cd -
+  295  touch .gitignore
+  296  ls
+  297  la -a
+  298  ls -a
+  299  vi .gitignor
+  300  ls
+  301  git log
+  302  git rm --cached gizumo2*.md
+  303  cd trash
+  304  git rm --cached gizumo2*.md
+  305  git status
+  306  cd -
+  307  ls
+  308  ls -a
+  309  vi .gitignor
+  310  histore 300
+  311  history 300
+
